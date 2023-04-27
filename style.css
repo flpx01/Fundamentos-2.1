@@ -2,7 +2,9 @@ h2{color:green}
        body { background-color: rgb(257,400,200)  
        }
        .Poemas{background-color:bisque;  
-      color:darkblue; font-weight: 600;   }
+      color:darkblue; font-weight: 600; font-style:italic; line-height:40px;
+ text-align:center ;  text-decoration: underline;      }
       #Trybe{font-size: 65px;
       color:darkgreen}
       p{font-family: Arial, Helvetica, sans-serif;}
+     h1{font-family: Arial, Helvetica, sans-serif;}
