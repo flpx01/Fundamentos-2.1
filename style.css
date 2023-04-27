@@ -2,7 +2,7 @@ h2{color:green}
        body { background-color: rgb(257,400,200)  
        }
        .Poemas{background-color:bisque;  
-      color:black}
+      color:darkblue; font-weight: 600;   }
       #Trybe{font-size: 65px;
       color:darkgreen}
       p{font-family: Arial, Helvetica, sans-serif;}
